@@ -11,5 +11,5 @@ Welcome to my **awesome** new blog HUGH! My blog is deployed on [IPFS](https://i
 
 It was so **easy**!!
 
-This is meant to connect with [this](https://ipfs.io/ipfs/QmZyUGYVwcg9xyaP7yuVVZBkcky96R9wf31RHpgY3bV3ug?filename=index.html)!
+This is meant to connect with [this](https://ipfs.io/ipfs/QmVzW5NfySnfTk7ucdEoWXshkNUXn3dseBA7ZVrQMBfZey?filename=The-Presidents-Advisory-1776-Commission-Final-Report.pdf)!
 

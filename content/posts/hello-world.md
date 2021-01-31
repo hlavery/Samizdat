@@ -10,3 +10,6 @@ draft: false
 Welcome to my **awesome** new blog HUGH! My blog is deployed on [IPFS](https://ipfs.io) thanks to [Fleek](https://fleek.co) and using [Hugo](https://http://gohugo.io/).
 
 It was so **easy**!!
+
+This is meant to connect with [this] (http://hlavery.org)!
+

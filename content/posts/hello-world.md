@@ -7,7 +7,7 @@ draft: false
 
 # Welcome!
 
-This portal connects with [this guide book to accompany LiveNotByLies](https://ipfs.io/ifns/k51qzi5uqu5di4digjfzp36b2jd6f5diel1pqbvqj80jangkmzeg3toxflan39) 
+This portal connects with [this guide book to accompany LiveNotByLies](https://ipfs.io/ipns/k51qzi5uqu5di4digjfzp36b2jd6f5diel1pqbvqj80jangkmzeg3toxflan39) 
 ...by Rod Dreher
 
 

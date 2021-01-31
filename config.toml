@@ -35,11 +35,11 @@ relativeURLs = true
   [languages.en]
     languageName = "English"
     title = "Web3 Gateway"
-    subtitle = "!"
+    subtitle = ""
     keywords = ""
     copyright = ""
-    menuMore = "To the Portal"
-    readMore = "Read more"
+    menuMore = "menumorel"
+    readMore = "To the Portal"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]

@@ -34,12 +34,12 @@ relativeURLs = true
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Web3 Gateway"
+    title = "Samizdat"
     subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Learn about Providers"
-    readMore = "To the Portal"
+    readMore = "To the Good Stuff"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]

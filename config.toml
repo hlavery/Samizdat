@@ -35,7 +35,7 @@ relativeURLs = true
   [languages.en]
     languageName = "English"
     title = "Web3 Gateway"
-    subtitle = "Hugo Works Great with Fleek!!!"
+    subtitle = "!"
     keywords = ""
     copyright = ""
     menuMore = "Show more"

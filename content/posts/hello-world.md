@@ -12,5 +12,5 @@ This portal connects with [this work book to accompany LiveNotByLies](https://ip
 
 
 
-This portal page was deployed on [IPFS](https://ipfs.io) thanks to [Fleek](https://fleek.co) and using [Hugo](https://http://gohugo.io/).
+This portal page was deployed on [IPFS](https://ipfs.io) thanks to [Fleek](https://fleek.co) and using [Hugo](https://http://gohugo.io/)
 

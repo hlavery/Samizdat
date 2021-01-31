@@ -1,5 +1,5 @@
 ---
-title: "Hugh's Distributed Internet Portal"
+title: "Content on the distributed web"
 slug: hello-world
 date: 2021-01-30 
 draft: false
@@ -7,8 +7,8 @@ draft: false
 
 # Welcome!
 
-This portal connects with [this static version of my Wordpress blog](https://ipfs.io/ipns/k51qzi5uqu5di4digjfzp36b2jd6f5diel1pqbvqj80jangkmzeg3toxflan39) 
-...Gladys Potter's Family
+This portal connects with [this work book to accompany LiveNotByLies](https://ipfs.io/ipns/k51qzi5uqu5di4digjfzp36b2jd6f5diel1pqbvqj80jangkmzeg3toxflan39) 
+...by Rod Dreher
 
 
 

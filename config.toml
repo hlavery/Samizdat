@@ -34,7 +34,7 @@ relativeURLs = true
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Fleek and Hugo"
+    title = "Web3 Gateway"
     subtitle = "Hugo Works Great with Fleek!!!"
     keywords = ""
     copyright = ""

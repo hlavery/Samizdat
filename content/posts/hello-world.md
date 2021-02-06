@@ -1,5 +1,5 @@
 ---
-title: "See Content on the distributed web"
+title: "See Content on the Distributed Web"
 slug: hello-world
 date: 2021-01-31
 draft: false

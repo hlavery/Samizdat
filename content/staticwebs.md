@@ -1,5 +1,5 @@
 ---
-title: "Static Versions of Mary Potter's saved letters" (Click to expand)
+title: "Static Versions of Mary Potter's saved letters (Click to expand)"
 date: 2021-07-19T13:43:29-04:00
 draft: false
 weight: 2

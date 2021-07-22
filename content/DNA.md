@@ -9,4 +9,4 @@ I have spent some years (and much money) DNA testing with all four major genealo
 
 At this point, I can assign a little over 60% of total matrilineal DNA to specific ancestors.
 
-![DNA](/DNA.png)
+![DNA](/DNA2.jpg)

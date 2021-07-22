@@ -11,7 +11,7 @@ My family tree is pretty well filled out, with the exception of great-grandfathe
 
 The following copy of the tree has been marked-up to show inheritance patterns of autosomal, X-DNA, and mitochondrial DNA.
 What this shows is that I could expect to see half my DNA from paternal sources, and half from maternal..of which 25% would be from (Potter/Hasbrouck lines) plus 12.5% from (unknown "Henry" ancestors) plus 12.5% from (Lore/Davis lines.)
-There is some chance of X-chromosome matches with "Andrew Henry's" mother and maternal grandparents.  Mitochondrial MtDNA is not relevant to the identity of Mr. Henry
+There a one-in-three  chance of X-chromosome matches with "Andrew Henry's" mother and maternal grandparents.  Mitochondrial MtDNA is not relevant to the identity of Mr. Henry
 
 ![MarkedTree](/Tree2.jpg)
 

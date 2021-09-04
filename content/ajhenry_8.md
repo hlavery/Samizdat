@@ -1,5 +1,5 @@
 ---
-title: "A J Henry, who? (click to exapand)"
+title: "A J Henry, who? (click to expand)"
 date: 2021-07-21T12:04:39-04:00
 draft: false
 weight: 8
